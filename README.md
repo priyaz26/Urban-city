@@ -59,25 +59,17 @@ This project combines them into a single, validated star-schema data model in Po
 
 KPI cards (total passengers, average temperature, total population, average passengers), passenger count by location, passenger share by weather condition, and a temperature versus demand scatter plot.
 
-![Dashboard 1](images/dashboard-1-transit-analysis.jpg)
-
 ### Dashboard 2: Smart Urban Mobility and Traffic Intelligence
 
 Traffic demand and mobility heat maps, route-wise passenger performance, weather comparison, and headline KPIs for total traffic, average speed, public transport usage and incident reports.
-
-![Dashboard 2](images/dashboard-2-traffic-intelligence.jpg)
 
 ### Dashboard 3: Smart Mobility and Demand Intelligence
 
 Ride-hailing demand by area, pedestrian and cyclist treemap, public transport versus active mobility comparison, weather sensitivity analysis and passenger demand forecast.
 
-![Dashboard 3](images/dashboard-3-demand-intelligence.jpg)
-
 ### Dashboard 4: Mobility Equity and Executive Intelligence
 
 Mobility Access Index, area-wise equity report, ride-hailing demand by vehicle type, traffic anomaly detection and executive KPIs.
-
-![Dashboard 4](images/dashboard-4-equity-executive.jpg)
 
 ---
 
@@ -159,7 +151,6 @@ DIVIDE (
 |-- data/                     Source and cleaned datasets
 |-- powerbi/
 |   `-- Smart_Urban_Mobility.pbix
-|-- images/                   Dashboard screenshots
 |-- docs/
 |   `-- Final_Project_Report.docx
 `-- LICENSE
@@ -194,4 +185,4 @@ DIVIDE (
 **V Priyadharshini**
 B.Tech Information Technology, SRMIST
 Infosys Springboard Virtual Internship, Batch 3
-Mentor: Kalaiyarasi
+Mentor: Kalaiyarasi mam.
